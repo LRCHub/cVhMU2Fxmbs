@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "溶ける前に、君に。",
+  "base_artist": "いぎなり東北産",
+  "createdAt": "2026-03-10T01:38:52.509668Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "溶ける前に、君に",
+      "artist": "いぎなり東北産",
+      "has_synced": false,
+      "path": "select/pl_01_溶ける前に、君に_いぎなり東北産.txt"
+    }
+  ]
+}
